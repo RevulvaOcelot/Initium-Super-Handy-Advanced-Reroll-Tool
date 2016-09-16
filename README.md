@@ -3,7 +3,7 @@ Yep. You read that right.
 
 How to use:
 
-Seriously, I don't think it's that super newbie friendly, but hey. Basically it logs all your attacks and current stats while you did the attack. It's honestly better if you just try it out.
+Seriously, I don't think it's that super newbie friendly, but hey. Basically it logs all your attacks and current stats while you did the attack. It's honestly better if you just try it out. Use greasemonkey for this. 
 
 Features:
 
